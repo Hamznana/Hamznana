@@ -2,7 +2,7 @@
 
 Web Developer | Full Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hamznana&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Hamznana&color=blue&style=flat-square&label=Visitor)
 
 ---
 
