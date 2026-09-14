@@ -4,7 +4,9 @@
 
 **Web Developer · Full Stack Developer**
 
-Building useful things, learning continuously, and improving through real projects.
+I build simple, useful, and reliable web applications.
+
+[GitHub](https://github.com/Hamznana) · [Projects](https://github.com/Hamznana?tab=repositories)
 
 </div>
 
@@ -12,39 +14,48 @@ Building useful things, learning continuously, and improving through real projec
 
 ### About
 
-I'm a developer interested in building modern web applications and practical digital products. I enjoy exploring new technologies, working with APIs, and turning ideas into simple and useful experiences.
+Developer focused on web development, modern JavaScript, and building practical digital products.
+I enjoy learning by building, experimenting with new technologies, and improving every project I create.
 
 ### Tech Stack
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-181717?style=flat-square&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white">
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,html,css,git,github&perline=9" />
-
-</div>
-
-### Currently
+### Focus
 
 ```text
-Focus       Full Stack Development
-Learning    Modern Web Technologies
-Building    Web Applications
-Mindset     Build · Learn · Improve
+Web Development  ·  Full Stack  ·  APIs  ·  UI/UX
 ```
 
 ### GitHub
 
-I use GitHub to build projects, experiment with ideas, document my progress, and continue growing as a developer.
+Building, experimenting, and learning in public.
 
 <div align="center">
 
-<sub>Profile Visitors</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=Hamznana&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&card_width=420">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamznana&hide_border=true">
+
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Hamznana&style=flat-square&color=blue&label=VISITORS" />
+<div align="center">
 
-<br>
-
-<sub>Thanks for visiting.</sub>
+<img src="https://komarev.com/ghpvc/?username=Hamznana&style=flat-square&label=PROFILE+VISITORS">
 
 </div>
