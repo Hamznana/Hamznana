@@ -1,113 +1,159 @@
-# Hi, I'm Hamdani Hamka
+<div align="center">
 
-I'm a developer who enjoys building web applications, exploring new technologies, and turning ideas into practical digital products.
+# HAM DANI HAMKA
 
-I focus on writing clean, maintainable, and user-friendly applications while continuously improving my skills through real-world projects and experimentation.
+**Web Developer · Full Stack · Builder**
 
----
+<img src="https://komarev.com/ghpvc/?username=Hamznana&style=flat-square&color=blue&label=PROFILE+VISITORS" alt="Profile Visitors">
 
-## About Me
-
-* Web Developer
-* Interested in Full Stack Development
-* Interested in modern web technologies
-* Enjoy building useful and practical applications
-* Always learning and experimenting with new technologies
-* Interested in open-source projects and the developer community
+</div>
 
 ---
 
-## What I Do
+### `developer.status`
 
-I enjoy working on projects that combine functionality, performance, and a good user experience.
-
-My development process usually starts from understanding the problem, designing a simple solution, building the application, testing it, and continuously improving it.
-
-I'm particularly interested in creating web applications that are simple to use while still being reliable and scalable.
-
----
-
-## Technologies & Tools
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+```text
+STATUS       Building
+FOCUS        Full Stack Development
+LOCATION     Indonesia
+MODE         Learning & Creating
+```
 
 ---
 
-## Development Philosophy
+### `developer.profile`
 
-I believe good software doesn't have to be complicated.
+I'm a developer who enjoys turning ideas into practical digital products.
 
-My approach is to keep things:
+I like building things from scratch, experimenting with new technologies, improving existing systems, and learning through real projects.
 
-* Simple
-* Practical
-* Maintainable
-* Responsive
-* User-friendly
-* Easy to understand
-* Reliable
-
-I prefer building something useful and improving it over time rather than trying to make everything perfect from the beginning.
+My goal is simple: build useful software, understand how it works, and keep getting better.
 
 ---
 
-## Currently Learning
+### `developer.class`
 
-I'm continuously improving my knowledge in:
+```text
+CLASS        Full Stack Developer
+LEVEL        17
+XP           ███████████████░░░░░  78%
 
-* Full Stack Web Development
-* Modern JavaScript
-* TypeScript
-* React
-* Backend Development
-* REST APIs
-* Database Management
-* Web Performance
-* UI/UX
-* Software Architecture
-* Git & GitHub
+SPECIALTY
+├── Web Development
+├── Frontend Engineering
+├── Backend Development
+├── API Integration
+└── UI / UX
 
----
-
-## GitHub Activity
-
-I use GitHub to document my development journey, experiment with new ideas, and maintain projects.
-
-Most of my repositories are focused on learning, experimentation, and building practical web applications.
+CURRENT QUEST
+└── Build → Learn → Improve → Repeat
+```
 
 ---
 
-## Let's Connect
+### `technology.inventory`
 
-I'm always interested in connecting with other developers, sharing ideas, learning new things, and collaborating on interesting projects.
+**Languages**
 
-If you have an interesting project or idea, feel free to reach out.
+`JavaScript` `TypeScript` `HTML` `CSS`
+
+**Frontend**
+
+`React` `Vite`
+
+**Backend**
+
+`Node.js` `REST API`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
 
 ---
 
-## Profile Visitor
+### `developer.stats`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamznana&style=for-the-badge&color=blue&label=VISITORS" alt="Profile Visitors"/>
-</p>
+```text
+REPOSITORIES       ████████████████
+CONTRIBUTIONS      ███████████████████
+PROJECTS           ███████████████
+EXPERIMENTS        █████████████████
 
-<p align="center">
-  Thanks for visiting my profile.
-</p>
+BUILDING
+████████████████████░░░░
+```
+
+---
+
+### `achievement.unlocked`
+
+```text
+[ BUILDER ]
+Creates projects instead of only planning them.
+
+[ EXPLORER ]
+Constantly experiments with new technologies.
+
+[ PROBLEM SOLVER ]
+Turns ideas and problems into working solutions.
+
+[ LEARNER ]
+Improves through real-world development.
+
+[ OPEN SOURCE ]
+Uses GitHub as part of the development journey.
+```
+
+---
+
+### `developer.timeline`
+
+```text
+START
+ │
+ ├── Learn Web Development
+ │
+ ├── Build First Projects
+ │
+ ├── Explore Modern Web Technologies
+ │
+ ├── Experiment With APIs
+ │
+ ├── Build Full Stack Applications
+ │
+ └── Continue Building...
+```
+
+---
+
+### `developer.mindset`
+
+> Build something useful.
+>
+> Keep it simple.
+>
+> Learn from every project.
+>
+> Improve it one step at a time.
+
+---
+
+### `github.world`
+
+GitHub is more than a place to store code.
+
+It's where I document experiments, build projects, learn new technologies, and share things I've created.
+
+Every repository is part of the journey.
+
+---
+
+<div align="center">
+
+### `PROFILE VISITORS`
+
+<img src="https://komarev.com/ghpvc/?username=Hamznana&style=for-the-badge&color=blue&label=VISITORS" alt="Profile Visitors">
+
+<sub>Thanks for exploring my profile.</sub>
+
+</div>
