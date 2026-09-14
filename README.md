@@ -16,11 +16,11 @@ I'm a developer interested in building modern web applications and practical dig
 
 ### Tech Stack
 
-`JavaScript` `TypeScript` `React` `Vite` `Node.js` `HTML` `CSS` `Git` `GitHub`
+`JavaScript` · `TypeScript` · `React` · `Vite` · `Node.js` · `HTML` · `CSS` · `Git` · `GitHub`
 
 ### Currently
 
-```text
+```text id="i9143c"
 Focus       Full Stack Development
 Learning    Modern Web Technologies
 Building    Web Applications
