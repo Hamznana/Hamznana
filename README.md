@@ -16,11 +16,15 @@ I'm a developer interested in building modern web applications and practical dig
 
 ### Tech Stack
 
-`JavaScript` · `TypeScript` · `React` · `Vite` · `Node.js` · `HTML` · `CSS` · `Git` · `GitHub`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,html,css,git,github&perline=9" />
+
+</div>
 
 ### Currently
 
-```text id="i9143c"
+```text
 Focus       Full Stack Development
 Learning    Modern Web Technologies
 Building    Web Applications
@@ -35,7 +39,11 @@ I use GitHub to build projects, experiment with ideas, document my progress, and
 
 <sub>Profile Visitors</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hamznana\&style=flat-square\&color=blue\&label=VISITORS)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Hamznana&style=flat-square&color=blue&label=VISITORS" />
+
+<br>
 
 <sub>Thanks for visiting.</sub>
 
