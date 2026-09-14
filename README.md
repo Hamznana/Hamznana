@@ -2,26 +2,27 @@
 
 # Hamdani Hamka
 
-`Web Developer` · `Full Stack` · `Builder`
+**Web Developer · Full Stack Developer · Builder**
 
-Building practical web applications and learning through real projects.
+I enjoy turning ideas into useful web applications, learning through real projects, and continuously improving the way I build software.
 
-<a href="https://github.com/Hamznana">
-  <img src="https://img.shields.io/badge/GitHub-Hamznana-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Hamznana?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/GitHub-Hamznana-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Building-Projects-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-Always-181717?style=flat-square&logo=bookstack&logoColor=white" />
 
 </div>
 
-### About
+---
 
-I'm a developer focused on building modern web applications, exploring new technologies, and turning ideas into useful digital products.
+### About Me
 
-I prefer simple solutions, clean interfaces, and software that is easy to maintain.
+I'm a developer who enjoys building things from the ground up. My interests are centered around web development, modern JavaScript, APIs, user interfaces, and practical software solutions.
 
-### Stack
+I learn best by creating real projects. Every project gives me an opportunity to understand a new concept, solve a different problem, improve my workflow, and become a better developer.
+
+I value clean code, simple interfaces, good structure, and software that feels natural to use.
+
+### What I Work With
 
 <div align="center">
 
@@ -30,21 +31,46 @@ I prefer simple solutions, clean interfaces, and software that is easy to mainta
 <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-181717?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 </div>
 
-### Currently
+### Development
 
-```text
-Focus      Full Stack Development
-Learning   Modern Web Technologies
-Building   Web Applications
-Approach   Build · Learn · Improve
+```text id="z7g6xq"
+Frontend        Building responsive and intuitive interfaces
+Backend         Working with APIs, services, and application logic
+Integration     Connecting applications with external services
+UI / UX         Keeping interfaces clean, practical, and easy to use
+Version Control Managing projects and development workflows with Git
 ```
 
-### Activity
+### Currently
+
+```text id="n4v5sa"
+FOCUS       Full Stack Web Development
+LEARNING    Modern JavaScript · TypeScript · React · APIs
+BUILDING    Practical Web Applications
+IMPROVING   Code Quality · UI/UX · Performance · Architecture
+APPROACH    Build → Test → Learn → Improve
+```
+
+### My Approach
+
+I don't believe every project needs to be complicated.
+
+I prefer starting with a clear idea, building the essential parts, testing what works, and improving the result step by step. Along the way, I try to understand not only how something works, but also why it should be built that way.
+
+For me, development is a continuous process of building, breaking, fixing, learning, and building again.
+
+### GitHub
+
+GitHub is where I keep my development journey.
+
+Here you'll find projects, experiments, ideas, and things I'm currently learning. Some repositories represent finished work, while others are simply part of the process of exploring something new.
 
 <div align="center">
 
@@ -52,12 +78,23 @@ Approach   Build · Learn · Improve
 
 </div>
 
+### Keep Building
+
+```text id="3qf5cc"
+Learn something new.
+Build something useful.
+Make mistakes.
+Understand the problem.
+Improve the solution.
+Repeat.
+```
+
 <div align="center">
 
-<sub>Profile visitors</sub>
+<sub>Thanks for stopping by and taking a look around.</sub>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Hamznana&style=flat-square&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=Hamznana&style=flat-square&label=PROFILE+VISITORS" />
 
 </div>
